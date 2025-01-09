@@ -40,15 +40,16 @@ body{
   border-radius: 10px;
 }
 .bannar-heading {
-  width: 632px;
-  height: 246px;
   text-align: center;
+  width: 662px;
+  align-items: center;
+  justify-content: center;
 }
 .bannar-sub-title {
   font-size: 32px;
   font-weight: 400;
   color: #fff;
-  margin-left: 210px;
+  margin-left: 110px;
 }
 .bannar-title {
   font-size: 72px;
@@ -191,8 +192,9 @@ span {
   margin-bottom: 16px;
 }
 .img {
-  width: 385.33px;
-  height: 364.84px;
+  padding: 30px;
+  border: 15px solid #ff0000;
+  border-radius: 50%;
 }
 .too-2024-description {
   width: 276px;
